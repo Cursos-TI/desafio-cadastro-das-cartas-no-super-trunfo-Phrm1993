@@ -19,6 +19,7 @@ int main() {
     int pontosturisticos;
 
     printf("desafio supertrunfo novato\n");
+    printf("carta 1\n");
 
     // Cadastro das Cartas:
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
@@ -43,6 +44,8 @@ int main() {
 
     printf("digite a quantidade de pontos turisticos:");
     scanf("%d", &pontosturisticos);
+
+
 
     
     // Exibição dos Dados das Cartas:
