@@ -11,7 +11,7 @@ int main() {
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
     char estado1 , estado2;
-    char codigo1 ,codigo2 [10];
+    char codigo1 , codigo2 [10];
     char nomecidade1 , nomecidade2 [30];
     int populacao1 , populacao2;
     float area1 , area2;
